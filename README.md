@@ -17,7 +17,11 @@ The little twist is that with the help of your PS4 Controller you also controll 
 If you watch the video until the end, you'll see some fairly interesting patterns that emerge with the help of the player.
 Just for fun the color of the non-player LED is dependent on the temperature the Sense Hat reads ranging from blue to red (cold to hot).
 
-# Controller Manual
+# Manual
+
+Just run the gameoflife.py while you have a Sense Hat and a PS4 controller connected.
+
+Here are the controlls:
 
 **X** | Activate/deactivate the player character.
 
