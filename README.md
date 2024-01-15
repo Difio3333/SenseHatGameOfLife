@@ -2,7 +2,7 @@
 [Here is a short video displaying the software in action](https://youtu.be/YGtlaHDe6AA)
 
 # Hardware Requirements
-This software requires the Rasberry Pi Sense Hat addon board and a PS4 Controller as well as some Rasberry Pi Computer to connect the Sense Hat to.
+This software requires the Rasberry Pi Sense Hat addon board and a PS4 Controller as well as some Rasberry Pi computer to connect the Sense Hat to.
 
 # Dependencies
 
