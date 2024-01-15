@@ -29,7 +29,7 @@ Here are the controlls:
 
 **●** | Clear the board of all entities but the player.
 
-**▲** | Spawn a different kind of infinetly moving structure.
+**▲** | Spawn a different kind of infinitely moving structure.
 
 **↑↓←→** | Move the character up, down, left, right.
 
